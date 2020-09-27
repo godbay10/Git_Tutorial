@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "틀린 그림찾기", "틀린 그림찾기.pyproj", "{C0EF7683-1912-4D03-8D1A-37867834C8D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0EF7683-1912-4D03-8D1A-37867834C8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EF7683-1912-4D03-8D1A-37867834C8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6716B248-2110-491F-AC4E-0C8E55F41DB8}
+	EndGlobalSection
+EndGlobal
